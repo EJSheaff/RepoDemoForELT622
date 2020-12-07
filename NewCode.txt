@@ -6,3 +6,4 @@ line 5: added this code now 19:37am
 line 6:
 line 7: fixed bug C 
 line 8: Fixed bug. tried to blame you but couldnt figure that out
+line 9: It appears that I can propose changes on github itself? - Elliot
